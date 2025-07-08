@@ -1,0 +1,12 @@
+release/chatroom.o
+release/clientsocket.o
+release/dialog.o
+release/main.o
+release/mainwindow.o
+release/roommanager.o
+release/user.o
+release/qrc_image.o
+release/moc_chatroom.o
+release/moc_clientsocket.o
+release/moc_dialog.o
+release/moc_mainwindow.o

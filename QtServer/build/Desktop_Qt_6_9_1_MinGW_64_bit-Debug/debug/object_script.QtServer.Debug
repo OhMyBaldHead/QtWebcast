@@ -1,0 +1,14 @@
+debug/chat.o
+debug/chatmanager.o
+debug/clientsocket.o
+debug/dbhelper.o
+debug/main.o
+debug/mainwindow.o
+debug/onlinedao.o
+debug/onlinedaoimp.o
+debug/socketmanager.o
+debug/user.o
+debug/userdao.o
+debug/userdaoimp.o
+debug/moc_clientsocket.o
+debug/moc_mainwindow.o
